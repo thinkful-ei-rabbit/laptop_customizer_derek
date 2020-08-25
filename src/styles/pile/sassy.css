@@ -111,6 +111,17 @@ address {
    =============== */
 * {
   font-family: "Yantramanav", sans-serif;
+  font-size: 16px;
+}
+@media (min-width: 320px) {
+  * {
+    font-size: calc(16px + 10 * (100vw - 320px) / 1080);
+  }
+}
+@media (min-width: 1400px) {
+  * {
+    font-size: 26px;
+  }
 }
 
 .headline {

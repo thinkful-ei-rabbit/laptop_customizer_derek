@@ -184,6 +184,7 @@ $code-font: 'Fira Code', monospace; // font-weight: 300;==>400<==;500;600;700
 
 * {
   font-family: $main-font;
+  @include fluid-type(font-size, 320px, 1400px, 16px, 26px)
 }
 
 .headline {
