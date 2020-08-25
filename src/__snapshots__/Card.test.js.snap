@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card.js suite renders UI  test 1 1`] = `
+<div
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3>
+    cardTitle1
+  </h3>
+  <p>
+    cardContent1
+  </p>
+</div>
+`;
+
+exports[`Card.js suite renders UI test 2 1`] = `
+<div
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3>
+    cardTitle2
+  </h3>
+  <p>
+    cardContent2
+  </p>
+</div>
+`;
