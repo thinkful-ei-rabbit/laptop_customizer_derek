@@ -33,6 +33,7 @@ class App extends Component {
       }
       return list;
     })
+    
 
     this.setState({
       store: {
