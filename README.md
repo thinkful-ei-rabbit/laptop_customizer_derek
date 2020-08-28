@@ -1,3 +1,8 @@
+# React App *gh-pages* Host URL:
+#### https://thinkful-ei-rabbit.github.io/laptop_customizer_derek
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
