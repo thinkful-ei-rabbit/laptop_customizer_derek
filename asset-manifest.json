@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/laptop_customizer_derek/static/css/main.c68ac268.chunk.css",
+    "main.js": "/laptop_customizer_derek/static/js/main.52eccaf0.chunk.js",
+    "main.js.map": "/laptop_customizer_derek/static/js/main.52eccaf0.chunk.js.map",
+    "runtime-main.js": "/laptop_customizer_derek/static/js/runtime-main.5b7e01f7.js",
+    "runtime-main.js.map": "/laptop_customizer_derek/static/js/runtime-main.5b7e01f7.js.map",
+    "static/js/2.54fa624f.chunk.js": "/laptop_customizer_derek/static/js/2.54fa624f.chunk.js",
+    "static/js/2.54fa624f.chunk.js.map": "/laptop_customizer_derek/static/js/2.54fa624f.chunk.js.map",
+    "index.html": "/laptop_customizer_derek/index.html",
+    "precache-manifest.348b4a33f07491ecf4960df2d124fdb3.js": "/laptop_customizer_derek/precache-manifest.348b4a33f07491ecf4960df2d124fdb3.js",
+    "service-worker.js": "/laptop_customizer_derek/service-worker.js",
+    "static/css/main.c68ac268.chunk.css.map": "/laptop_customizer_derek/static/css/main.c68ac268.chunk.css.map",
+    "static/js/2.54fa624f.chunk.js.LICENSE.txt": "/laptop_customizer_derek/static/js/2.54fa624f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b7e01f7.js",
+    "static/js/2.54fa624f.chunk.js",
+    "static/css/main.c68ac268.chunk.css",
+    "static/js/main.52eccaf0.chunk.js"
+  ]
+}
